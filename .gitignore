@@ -1,0 +1,37 @@
+# Laravel folders to ignore
+/vendor/
+/node_modules/
+.env
+.env.backup
+.env.production
+
+# Laravel storage & cache
+/storage/
+!storage/app/public
+/public/storage
+/storage/*.key
+/public/hot
+/public/build
+/phpunit.result.cache
+/.phpunit.cache
+
+# Hide migrations & seeders
+/database/migrations/
+/database/seeders/
+
+# IDEs & Editors
+/.idea/
+/.vscode/
+/.nova/
+/.fleet/
+/.zed/
+/.phpactor.json
+/auth.json
+
+# Homestead & local config
+Homestead.yaml
+Homestead.json
+
+# Logs
+npm-debug.log
+yarn-error.log

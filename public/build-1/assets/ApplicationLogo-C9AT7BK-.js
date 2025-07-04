@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as e,o as c}from"./app-CbFQf_sx.js";const t={},s={src:"/images/HR-logo.png",alt:"HR Management System",class:"w-48 h-32 mr-3"};function n(r,a){return c(),e("img",s)}const i=o(t,[["render",n]]);export{i as A};
